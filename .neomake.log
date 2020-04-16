@@ -1,8 +1,0 @@
-08:00:55 95664 [D      ] Defining sign: sign define neomake_file_err texthl=NeomakeErrorSign text=✖.
-08:00:55 95664 [D      ] Defining sign: sign define neomake_project_err texthl=NeomakeErrorSign text=✖.
-08:00:55 95664 [D      ] Defining sign: sign define neomake_file_warn texthl=NeomakeWarningSign text=‼.
-08:00:55 95664 [D      ] Defining sign: sign define neomake_project_warn texthl=NeomakeWarningSign text=‼.
-08:00:55 95664 [D      ] Defining sign: sign define neomake_file_info texthl=NeomakeInfoSign text=ℹ.
-08:00:55 95664 [D      ] Defining sign: sign define neomake_project_info texthl=NeomakeInfoSign text=ℹ.
-08:00:55 95664 [D      ] Defining sign: sign define neomake_file_msg texthl=NeomakeMessageSign text=➤.
-08:00:55 95664 [D      ] Defining sign: sign define neomake_project_msg texthl=NeomakeMessageSign text=➤.

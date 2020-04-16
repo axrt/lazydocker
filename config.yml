@@ -2,7 +2,7 @@ gui:
   scrollHeight: 2
   theme:
     activeBorderColor:
-    - green
+    - red
     - bold
     inactiveBorderColor:
     - white
@@ -43,6 +43,4 @@ stats:
     color: blue
   - caption: Memory (%)
     statPath: DerivedStats.MemoryPercentage
-    color: green
- statPath: DerivedStats.MemoryPercentage
     color: green
